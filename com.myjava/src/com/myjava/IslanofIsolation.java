@@ -16,7 +16,7 @@ public class IslanofIsolation {
 		
 		o1.b = o2;
 		o2.a = o1;
-
+ 
 		System.out.println(o1);
 		System.out.println(o2);
 		

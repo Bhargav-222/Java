@@ -17,7 +17,7 @@ public class Institute {
         o.EmployeeName="Kiran";
         o.EmployeeDesignation="Manager";
         o.EmployeeId=101;
-        
+         
         o1.EmployeeName="Ravi";
         o1.EmployeeDesignation="Hr";
         o1.EmployeeId=111;

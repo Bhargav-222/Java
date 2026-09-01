@@ -16,7 +16,7 @@ public class Student {
 	public static void display(int age) {
 		System.out.println("Age is "+age);
 	}
-	
+	  
 	public static void main(String[] args) {
           Student s = new Student();
           collegeName="aditya";
