@@ -26,8 +26,8 @@ public class BankAccount {
 		
 		System.out.println("Account Number :"+ b1.Accno+"\n"+"Account Holder Name : "+b1.accountHolderName+"\n"+"Balance : "+b1.balance+"\n");
 		
-		System.out.println("Account Number :"+ b2.Accno+"\n"+"Account Holder Name : "+b2.accountHolderName+"\n"+"Balance : "+b2.balance);
-
+		System.out.println("Account Number :"+ b2.Accno+"\n"+"Account Holder Name : "+b2.accountHolderName+"\n"+"Balance : "+b2.balance);   
+	
 	}
 
 }  
